@@ -16,6 +16,8 @@ The screenshots were taken on Server version `0.2.4`
 ![](./homescript.png)
 ## Homescript Code Editor / IDE
 ![](./homescript_editor.png)
+## Homescript Code Editor / IDE (CURRENT VERSION)
+![](./homescript_editor_new.png)
 ## Scheduler
 ![](./scheduler.png)
 ## System Settings
