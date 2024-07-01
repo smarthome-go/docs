@@ -6,6 +6,7 @@ The screenshots were taken on Server version `0.2.4`
 ![](./dashboard.png)
 ## Rooms
 ![](./rooms.png)
+![](./rooms_updated.png)
 ## Automations
 ![](./automations.png)
 ## Reminders / ToDo
