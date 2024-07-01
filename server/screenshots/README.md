@@ -4,6 +4,7 @@ The screenshots were taken on Server version `0.2.4`
 
 ## Dashboard
 ![](./dashboard.png)
+![](./dashboard_alt.png)
 ## Rooms
 ![](./rooms.png)
 ![](./rooms_updated.png)
